@@ -1,0 +1,60 @@
+*{
+    padding: 0px;
+    margin:0;
+    
+}
+#yo{ 
+  padding:0px;
+  margin:0px;
+height: 36px;
+background-color:black;
+color:white
+
+}
+#navbar{
+  height: 60px;
+  background-color: black
+
+
+}
+button{
+  background-color: rgb(231, 51, 11);
+ font-size: 14.5px;
+ border-color: white;
+ color: white;
+ margin: right 300px; 
+  
+
+}
+
+#lol {
+  color:white;
+font-size: 60px;
+margin-left: 10px;
+  color:red;
+  font-size:50px;
+  margin-right: 200px;
+  font-family: "Amazon Ember", Arial, sans-serif;
+  font-weight: 700;
+}
+
+a{
+margin-right: 120px;
+color:white;
+font-size: 20px;
+}
+
+body {
+
+  background-color:rgb(36, 35, 35);
+}
+iframe{
+ margin-right: 9px;
+}
+ h3{
+  color: white;
+ }
+ input{
+  font-size: 16px;
+  margin-right: 10px;
+ }
